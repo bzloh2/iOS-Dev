@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CandyAnalyzer/ViewController.swift"
+            timestampString = "468466129.427896"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CandyAnalyzer/ViewController.swift"
+            timestampString = "468466129.933476"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CandyAnalyzer.ViewController.tableView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "CandyAnalyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianloh/Documents/iPhone%20Apps/CocoaNut%20Tutorials/CandyAnalyzer/CandyAnalyzer/ViewController.swift"
+                  timestampString = "468469558.472833"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CandyAnalyzer.ViewController.tableView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "CandyAnalyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianloh/Documents/iPhone%20Apps/CocoaNut%20Tutorials/CandyAnalyzer/CandyAnalyzer/ViewController.swift"
+                  timestampString = "468469558.473104"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CandyAnalyzer.ViewController.tableView.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "CandyAnalyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianloh/Documents/iPhone%20Apps/CocoaNut%20Tutorials/CandyAnalyzer/CandyAnalyzer/ViewController.swift"
+                  timestampString = "468469558.473325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CandyAnalyzer.ViewController.init (CandyAnalyzer.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; CandyAnalyzer.ViewController"
+                  moduleName = "CandyAnalyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianloh/Documents/iPhone%20Apps/CocoaNut%20Tutorials/CandyAnalyzer/CandyAnalyzer/ViewController.swift"
+                  timestampString = "468469558.473473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CandyAnalyzer.ViewController.init (CandyAnalyzer.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CandyAnalyzer.ViewController&gt;"
+                  moduleName = "CandyAnalyzer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brianloh/Documents/iPhone%20Apps/CocoaNut%20Tutorials/CandyAnalyzer/CandyAnalyzer/ViewController.swift"
+                  timestampString = "468469558.473728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
